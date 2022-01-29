@@ -2,7 +2,7 @@
   "Author": "akira0245, Tsubasahane",
   "Name": "SmartCast(Endwalker)",
   "InternalName": "SmartCast(Endwalker)",
-  "AssemblyVersion": "1.2.1.0",
+  "AssemblyVersion": "1.2.2.0",
   "Description": "使用类似智能施法的方式施放地面目标技能，并将技能宏插入施法队列中。\n- Cast ground target action with 1 click.\n- Put \"/ac\" commands/macro into action queue.\n- Auto dismount when using actions.",
   "ApplicableVersion": "any",
   "RepoUrl": "https://github.com/akira0245/Smartcast",
