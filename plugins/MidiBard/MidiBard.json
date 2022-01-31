@@ -2,7 +2,7 @@
   "Author": "akira0245",
   "Name": "MidiBard",
   "InternalName": "MidiBard",
-  "AssemblyVersion": "1.9.2.11",
+  "AssemblyVersion": "1.9.3.0",
   "Description": "使用MIDI文件或MIDI键盘进行诗人演奏。\nBard performance using midi files or keyboard.\n- Solo and ensemble mode support\n- Text commands for instrument equip and switch",
   "ApplicableVersion": "any",
   "RepoUrl": "https://github.com/akira0245/MidiBard",
