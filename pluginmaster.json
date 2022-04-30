@@ -1,11 +1,86 @@
 [
     {
         "Author": "akira0245",
+        "Name": "DalamudFontReplacer",
+        "Punchline": "Replaces dalamud's default font",
+        "Description": "Replaces dalamud's default font(and glyph range) with NotoSansCJKsc-Medium 17pt in order to display Chinese characters properly.\nInstalling this and the font replacing effects immediately.\n If you don't want to replace font anymore, please disable this plugin and restart the game.\nFont size, path and glyph range can be changed in plugin config file.",
+        "InternalName": "DalamudFontReplacer",
+        "AssemblyVersion": "1.0.0.3",
+        "RepoUrl": "https://github.com/akira0245/DalamudCNAdapter",
+        "ApplicableVersion": "any",
+        "Tags": [
+            "akira",
+            "font",
+            "text",
+            "fix",
+            "chinese",
+            "cn"
+        ],
+        "DalamudApiLevel": 5,
+        "IconUrl": "",
+        "DownloadLinkInstall": "https://github.com/akira0245/DalamudPlugins/raw/api4/plugins/DalamudFontReplacer/latest.zip",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "DownloadLinkTesting": "https://github.com/akira0245/DalamudPlugins/raw/api4/plugins/DalamudFontReplacer/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/akira0245/DalamudPlugins/raw/api4/plugins/DalamudFontReplacer/latest.zip",
+        "DownloadCount": 0,
+        "LastUpdated": "1651304833"
+    },
+    {
+        "Author": "akira0245",
+        "Name": "LootMaster",
+        "Punchline": "Roll loots via text command.",
+        "Description": "\u4f7f\u7528\u6587\u672c\u6307\u4ee4\u5bf9\u6218\u5229\u54c1\u63b7\u9ab0\u3002\nRoll loots via text command.",
+        "InternalName": "LootMaster",
+        "AssemblyVersion": "1.0.2.2",
+        "RepoUrl": "",
+        "ApplicableVersion": "any",
+        "Tags": [
+            "akira",
+            "loot",
+            "roll"
+        ],
+        "DalamudApiLevel": 6,
+        "IconUrl": "https://i.loli.net/2021/09/24/vfG4b9MWAZQTnjJ.png",
+        "DownloadLinkInstall": "https://github.com/akira0245/DalamudPlugins/raw/api4/plugins/LootMaster/latest.zip",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "DownloadLinkTesting": "https://github.com/akira0245/DalamudPlugins/raw/api4/plugins/LootMaster/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/akira0245/DalamudPlugins/raw/api4/plugins/LootMaster/latest.zip",
+        "DownloadCount": 0,
+        "LastUpdated": "1651304833"
+    },
+    {
+        "Author": "akira0245",
+        "Name": "EasyZoom",
+        "Punchline": "Easy zoom distance unlock and fov control.",
+        "Description": "\u89e3\u9501\u5e76\u8c03\u6574\u89c6\u8ddd\u548c\u89c6\u89d2\u3002\nEasy zoom distance unlock and fov control.",
+        "InternalName": "EasyZoom",
+        "AssemblyVersion": "1.1.0.1",
+        "RepoUrl": "",
+        "ApplicableVersion": "any",
+        "Tags": [
+            "cam",
+            "fov",
+            "akira"
+        ],
+        "DalamudApiLevel": 5,
+        "IconUrl": "https://i.loli.net/2021/09/24/grlXmGbBLpADZVi.png",
+        "DownloadLinkInstall": "https://github.com/akira0245/DalamudPlugins/raw/api4/plugins/EasyZoom/latest.zip",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "DownloadLinkTesting": "https://github.com/akira0245/DalamudPlugins/raw/api4/plugins/EasyZoom/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/akira0245/DalamudPlugins/raw/api4/plugins/EasyZoom/latest.zip",
+        "DownloadCount": 0,
+        "LastUpdated": "1651304833"
+    },
+    {
+        "Author": "akira0245",
         "Name": "MidiBard",
         "Punchline": "Bard performance using midi files or keyboard.",
         "Description": "\u4f7f\u7528MIDI\u6587\u4ef6\u6216MIDI\u952e\u76d8\u8fdb\u884c\u8bd7\u4eba\u6f14\u594f\u3002\nBard performance using midi files or keyboard.\n- Solo and ensemble mode support\n- Text commands for instrument equip and switch",
         "InternalName": "MidiBard",
-        "AssemblyVersion": "1.9.2.10",
+        "AssemblyVersion": "1.9.3.1",
         "RepoUrl": "https://github.com/akira0245/MidiBard",
         "ApplicableVersion": "any",
         "Tags": [
@@ -13,7 +88,7 @@
             "perform",
             "instrument"
         ],
-        "DalamudApiLevel": 5,
+        "DalamudApiLevel": 6,
         "IconUrl": "https://i.loli.net/2021/09/09/L1fkrwElUKYMtN3.png",
         "DownloadLinkInstall": "https://github.com/akira0245/DalamudPlugins/raw/api4/plugins/MidiBard/latest.zip",
         "IsHide": false,
@@ -21,7 +96,33 @@
         "DownloadLinkTesting": "https://github.com/akira0245/DalamudPlugins/raw/api4/plugins/MidiBard/latest.zip",
         "DownloadLinkUpdate": "https://github.com/akira0245/DalamudPlugins/raw/api4/plugins/MidiBard/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1643561824"
+        "LastUpdated": "1651304833"
+    },
+    {
+        "Author": "akira0245",
+        "Name": "SmartCast",
+        "Punchline": "Cast ground target actions with 1 click.",
+        "Description": "\u4f7f\u7528\u7c7b\u4f3c\u667a\u80fd\u65bd\u6cd5\u7684\u65b9\u5f0f\u65bd\u653e\u5730\u9762\u76ee\u6807\u6280\u80fd\uff0c\u5e76\u5c06\u6280\u80fd\u5b8f\u63d2\u5165\u65bd\u6cd5\u961f\u5217\u4e2d\u3002\n- Cast ground target action with 1 click.\n- Put \"/ac\" commands/macro into action queue.\n- Auto dismount when using actions.",
+        "InternalName": "SmartCast",
+        "AssemblyVersion": "1.0.0.0",
+        "ApplicableVersion": "any",
+        "Tags": [
+            "akira",
+            "macro",
+            "battle",
+            "action",
+            "ground",
+            "target"
+        ],
+        "DalamudApiLevel": 4,
+        "IconUrl": "https://i.loli.net/2021/09/10/SeapRGVcYP7w8jv.png",
+        "DownloadLinkInstall": "https://github.com/akira0245/DalamudPlugins/raw/api4/plugins/SmartCast/latest.zip",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "DownloadLinkTesting": "https://github.com/akira0245/DalamudPlugins/raw/api4/plugins/SmartCast/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/akira0245/DalamudPlugins/raw/api4/plugins/SmartCast/latest.zip",
+        "DownloadCount": 0,
+        "LastUpdated": "1651304833"
     },
     {
         "Author": "akira0245",
@@ -44,7 +145,7 @@
         "DownloadLinkTesting": "https://github.com/akira0245/DalamudPlugins/raw/api4/plugins/Radar/latest.zip",
         "DownloadLinkUpdate": "https://github.com/akira0245/DalamudPlugins/raw/api4/plugins/Radar/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1643561824"
+        "LastUpdated": "1651304833"
     },
     {
         "Author": "akira0245, Tsubasahane",
@@ -71,31 +172,7 @@
         "DownloadLinkTesting": "https://github.com/akira0245/DalamudPlugins/raw/api4/plugins/SmartCast(Endwalker)/latest.zip",
         "DownloadLinkUpdate": "https://github.com/akira0245/DalamudPlugins/raw/api4/plugins/SmartCast(Endwalker)/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1643561824"
-    },
-    {
-        "Author": "akira0245",
-        "Name": "EasyZoom",
-        "Punchline": "Easy zoom distance unlock and fov control.",
-        "Description": "\u89e3\u9501\u5e76\u8c03\u6574\u89c6\u8ddd\u548c\u89c6\u89d2\u3002\nEasy zoom distance unlock and fov control.",
-        "InternalName": "EasyZoom",
-        "AssemblyVersion": "1.1.0.1",
-        "RepoUrl": "",
-        "ApplicableVersion": "any",
-        "Tags": [
-            "cam",
-            "fov",
-            "akira"
-        ],
-        "DalamudApiLevel": 5,
-        "IconUrl": "https://i.loli.net/2021/09/24/grlXmGbBLpADZVi.png",
-        "DownloadLinkInstall": "https://github.com/akira0245/DalamudPlugins/raw/api4/plugins/EasyZoom/latest.zip",
-        "IsHide": false,
-        "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://github.com/akira0245/DalamudPlugins/raw/api4/plugins/EasyZoom/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/akira0245/DalamudPlugins/raw/api4/plugins/EasyZoom/latest.zip",
-        "DownloadCount": 0,
-        "LastUpdated": "1643561824"
+        "LastUpdated": "1651304833"
     },
     {
         "Author": "akira0245",
@@ -115,83 +192,6 @@
         "DownloadLinkTesting": "https://github.com/akira0245/DalamudPlugins/raw/api4/plugins/WindowSizeUnlock/latest.zip",
         "DownloadLinkUpdate": "https://github.com/akira0245/DalamudPlugins/raw/api4/plugins/WindowSizeUnlock/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1643561824"
-    },
-    {
-        "Author": "akira0245",
-        "Name": "LootMaster",
-        "Punchline": "Roll loots via text command.",
-        "Description": "\u4f7f\u7528\u6587\u672c\u6307\u4ee4\u5bf9\u6218\u5229\u54c1\u63b7\u9ab0\u3002\nRoll loots via text command.",
-        "InternalName": "LootMaster",
-        "AssemblyVersion": "1.0.2.1",
-        "RepoUrl": "",
-        "ApplicableVersion": "any",
-        "Tags": [
-            "akira",
-            "loot",
-            "roll"
-        ],
-        "DalamudApiLevel": 5,
-        "IconUrl": "https://i.loli.net/2021/09/24/vfG4b9MWAZQTnjJ.png",
-        "DownloadLinkInstall": "https://github.com/akira0245/DalamudPlugins/raw/api4/plugins/LootMaster/latest.zip",
-        "IsHide": false,
-        "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://github.com/akira0245/DalamudPlugins/raw/api4/plugins/LootMaster/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/akira0245/DalamudPlugins/raw/api4/plugins/LootMaster/latest.zip",
-        "DownloadCount": 0,
-        "LastUpdated": "1643561824"
-    },
-    {
-        "Author": "akira0245",
-        "Name": "SmartCast",
-        "Punchline": "Cast ground target actions with 1 click.",
-        "Description": "\u4f7f\u7528\u7c7b\u4f3c\u667a\u80fd\u65bd\u6cd5\u7684\u65b9\u5f0f\u65bd\u653e\u5730\u9762\u76ee\u6807\u6280\u80fd\uff0c\u5e76\u5c06\u6280\u80fd\u5b8f\u63d2\u5165\u65bd\u6cd5\u961f\u5217\u4e2d\u3002\n- Cast ground target action with 1 click.\n- Put \"/ac\" commands/macro into action queue.\n- Auto dismount when using actions.",
-        "InternalName": "SmartCast",
-        "AssemblyVersion": "1.0.0.0",
-        "ApplicableVersion": "any",
-        "Tags": [
-            "akira",
-            "macro",
-            "battle",
-            "action",
-            "ground",
-            "target"
-        ],
-        "DalamudApiLevel": 4,
-        "IconUrl": "https://i.loli.net/2021/09/10/SeapRGVcYP7w8jv.png",
-        "DownloadLinkInstall": "https://github.com/akira0245/DalamudPlugins/raw/api4/plugins/SmartCast/latest.zip",
-        "IsHide": false,
-        "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://github.com/akira0245/DalamudPlugins/raw/api4/plugins/SmartCast/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/akira0245/DalamudPlugins/raw/api4/plugins/SmartCast/latest.zip",
-        "DownloadCount": 0,
-        "LastUpdated": "1643561824"
-    },
-    {
-        "Author": "akira0245",
-        "Name": "DalamudFontReplacer",
-        "Punchline": "Replaces dalamud's default font",
-        "Description": "Replaces dalamud's default font(and glyph range) with NotoSansCJKsc-Medium 17pt in order to display Chinese characters properly.\nInstalling this and the font replacing effects immediately.\n If you don't want to replace font anymore, please disable this plugin and restart the game.\nFont size, path and glyph range can be changed in plugin config file.",
-        "InternalName": "DalamudFontReplacer",
-        "AssemblyVersion": "1.0.0.3",
-        "RepoUrl": "https://github.com/akira0245/DalamudCNAdapter",
-        "ApplicableVersion": "any",
-        "Tags": [
-            "akira",
-            "font",
-            "text",
-            "fix",
-            "chinese",
-            "cn"
-        ],
-        "DalamudApiLevel": 5,
-        "IconUrl": "",
-        "DownloadLinkInstall": "https://github.com/akira0245/DalamudPlugins/raw/api4/plugins/DalamudFontReplacer/latest.zip",
-        "IsHide": false,
-        "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://github.com/akira0245/DalamudPlugins/raw/api4/plugins/DalamudFontReplacer/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/akira0245/DalamudPlugins/raw/api4/plugins/DalamudFontReplacer/latest.zip",
-        "DownloadCount": 0,
-        "LastUpdated": "1643561824"
+        "LastUpdated": "1651304833"
     }
 ]
