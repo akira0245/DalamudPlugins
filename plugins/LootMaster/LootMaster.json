@@ -2,7 +2,7 @@
   "Author": "akira0245",
   "Name": "LootMaster",
   "InternalName": "LootMaster",
-  "AssemblyVersion": "1.0.2.1",
+  "AssemblyVersion": "1.0.2.2",
   "Description": "使用文本指令对战利品掷骰。\nRoll loots via text command.",
   "ApplicableVersion": "any",
   "RepoUrl": "",
@@ -11,7 +11,7 @@
     "loot",
     "roll"
   ],
-  "DalamudApiLevel": 5,
+  "DalamudApiLevel": 6,
   "LoadPriority": 0,
   "IconUrl": "https://i.loli.net/2021/09/24/vfG4b9MWAZQTnjJ.png",
   "Punchline": "Roll loots via text command."
