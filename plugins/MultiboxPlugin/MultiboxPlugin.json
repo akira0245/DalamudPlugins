@@ -1,0 +1,22 @@
+{
+  "Author": "akira0245",
+  "Name": "MultiboxPlugin",
+  "InternalName": "MultiboxPlugin",
+  "AssemblyVersion": "1.0.0.0",
+  "Description": "",
+  "ApplicableVersion": "any",
+  "Tags": [
+    "akira",
+    "multi",
+    "box",
+    "mutex",
+    "mutant"
+  ],
+  "CategoryTags": [
+    "utility",
+    "other"
+  ],
+  "DalamudApiLevel": 6,
+  "LoadPriority": 0,
+  "Punchline": "Run more then 2 copies of FF14 at a time"
+}
