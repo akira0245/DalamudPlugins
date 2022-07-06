@@ -30,11 +30,11 @@ TRIMMED_KEYS = [
     'RepoUrl',
     'ApplicableVersion',
     'Tags',
+    'CategoryTags',
     'DalamudApiLevel',
     'IconUrl',
     'ImageUrls',
 ]
-
 def main():
     # extract the manifests from inside the zip files
     master = extract_manifests()
