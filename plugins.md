@@ -5,11 +5,12 @@
 
 | 插件名 | 作者 | 简介 |
 |---------------|---------------|-----------------|
-| DalamudFontReplacer | akira0245 | Replaces dalamud's default font |
 | LootMaster | akira0245 | Roll loots via text command. |
-| EasyZoom | akira0245 | Easy zoom distance unlock and fov control. |
-| MidiBard | akira0245 | Bard performance using midi files or keyboard. |
-| SmartCast | akira0245 | Cast ground target actions with 1 click. |
-| Radar | akira0245 | Displays game objects location on screen and map. |
-| SmartCast(Endwalker) | akira0245, Tsubasahane | Cast ground target actions with 1 click. |
+| MultiboxPlugin | akira0245 | Run more then 2 copies of FF14 at a time |
 | WindowSizeUnlock | akira0245 | Unlocks game window size restriction. |
+| Radar | akira0245 | Displays game objects location on screen and map. |
+| EasyZoom | akira0245 | Easy zoom distance unlock and fov control. |
+| SmartCast(Endwalker) | akira0245, Tsubasahane | Cast ground target actions with 1 click. |
+| SmartCast | akira0245 | Cast ground target actions with 1 click. |
+| MidiBard | akira0245 | Bard performance using midi files or keyboard. |
+| DalamudFontReplacer | akira0245 | Replaces dalamud's default font |
