@@ -6,7 +6,7 @@
 | 插件名 | 作者 | 简介 |
 |---------------|---------------|-----------------|
 | LootMaster | akira0245 | Roll loots via text command. |
-| MultiboxPlugin | akira0245 | Run more then 2 copies of FF14 at a time |
+| MultiboxPlugin | akira0245 | Run more than 2 copies of FF14 at a time |
 | WindowSizeUnlock | akira0245 | Unlocks game window size restriction. |
 | Radar | akira0245 | Displays game objects location on screen and map. |
 | EasyZoom | akira0245 | Easy zoom distance unlock and fov control. |

@@ -21,12 +21,12 @@
         "DownloadLinkTesting": "https://github.com/akira0245/DalamudPlugins/raw/api4/plugins/LootMaster/latest.zip",
         "DownloadLinkUpdate": "https://github.com/akira0245/DalamudPlugins/raw/api4/plugins/LootMaster/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1657115598"
+        "LastUpdated": "1657117667"
     },
     {
         "Author": "akira0245",
         "Name": "MultiboxPlugin",
-        "Punchline": "Run more then 2 copies of FF14 at a time",
+        "Punchline": "Run more than 2 copies of FF14 at a time",
         "Description": "",
         "InternalName": "MultiboxPlugin",
         "AssemblyVersion": "1.0.0.0",
@@ -45,7 +45,7 @@
         "DownloadLinkTesting": "https://github.com/akira0245/DalamudPlugins/raw/api4/plugins/MultiboxPlugin/latest.zip",
         "DownloadLinkUpdate": "https://github.com/akira0245/DalamudPlugins/raw/api4/plugins/MultiboxPlugin/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1657115598"
+        "LastUpdated": "1657117667"
     },
     {
         "Author": "akira0245",
@@ -67,7 +67,7 @@
         "DownloadLinkTesting": "https://github.com/akira0245/DalamudPlugins/raw/api4/plugins/WindowSizeUnlock/latest.zip",
         "DownloadLinkUpdate": "https://github.com/akira0245/DalamudPlugins/raw/api4/plugins/WindowSizeUnlock/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1657115598"
+        "LastUpdated": "1657117667"
     },
     {
         "Author": "akira0245",
@@ -90,7 +90,7 @@
         "DownloadLinkTesting": "https://github.com/akira0245/DalamudPlugins/raw/api4/plugins/Radar/latest.zip",
         "DownloadLinkUpdate": "https://github.com/akira0245/DalamudPlugins/raw/api4/plugins/Radar/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1657115598"
+        "LastUpdated": "1657117667"
     },
     {
         "Author": "akira0245",
@@ -114,7 +114,7 @@
         "DownloadLinkTesting": "https://github.com/akira0245/DalamudPlugins/raw/api4/plugins/EasyZoom/latest.zip",
         "DownloadLinkUpdate": "https://github.com/akira0245/DalamudPlugins/raw/api4/plugins/EasyZoom/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1657115598"
+        "LastUpdated": "1657117667"
     },
     {
         "Author": "akira0245, Tsubasahane",
@@ -141,7 +141,7 @@
         "DownloadLinkTesting": "https://github.com/akira0245/DalamudPlugins/raw/api4/plugins/SmartCast(Endwalker)/latest.zip",
         "DownloadLinkUpdate": "https://github.com/akira0245/DalamudPlugins/raw/api4/plugins/SmartCast(Endwalker)/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1657115598"
+        "LastUpdated": "1657117667"
     },
     {
         "Author": "akira0245",
@@ -167,7 +167,7 @@
         "DownloadLinkTesting": "https://github.com/akira0245/DalamudPlugins/raw/api4/plugins/SmartCast/latest.zip",
         "DownloadLinkUpdate": "https://github.com/akira0245/DalamudPlugins/raw/api4/plugins/SmartCast/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1657115598"
+        "LastUpdated": "1657117667"
     },
     {
         "Author": "akira0245",
@@ -191,7 +191,7 @@
         "DownloadLinkTesting": "https://github.com/akira0245/DalamudPlugins/raw/api4/plugins/MidiBard/latest.zip",
         "DownloadLinkUpdate": "https://github.com/akira0245/DalamudPlugins/raw/api4/plugins/MidiBard/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1657115598"
+        "LastUpdated": "1657117667"
     },
     {
         "Author": "akira0245",
@@ -218,6 +218,6 @@
         "DownloadLinkTesting": "https://github.com/akira0245/DalamudPlugins/raw/api4/plugins/DalamudFontReplacer/latest.zip",
         "DownloadLinkUpdate": "https://github.com/akira0245/DalamudPlugins/raw/api4/plugins/DalamudFontReplacer/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1657115598"
+        "LastUpdated": "1657117667"
     }
 ]
