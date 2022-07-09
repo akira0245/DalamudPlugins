@@ -8,6 +8,7 @@
 | LootMaster | akira0245 | Roll loots via text command. |
 | MultiboxPlugin | akira0245 | Run more than 2 copies of FF14 at a time |
 | WindowSizeUnlock | akira0245 | Unlocks game window size restriction. |
+| ReloadPluginCommand | akira0245 | Add a reload plugin command |
 | Radar | akira0245 | Displays game objects location on screen and map. |
 | EasyZoom | akira0245 | Easy zoom distance unlock and fov control. |
 | SmartCast(Endwalker) | akira0245, Tsubasahane | Cast ground target actions with 1 click. |
