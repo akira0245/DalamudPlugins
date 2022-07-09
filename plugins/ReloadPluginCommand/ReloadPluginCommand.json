@@ -1,0 +1,19 @@
+{
+  "Author": "akira0245",
+  "Name": "ReloadPluginCommand",
+  "InternalName": "ReloadPluginCommand",
+  "AssemblyVersion": "1.0.0.0",
+  "Description": "",
+  "ApplicableVersion": "any",
+  "Tags": [
+    "dev",
+    "cmd"
+  ],
+  "CategoryTags": [
+    "utility",
+    "other"
+  ],
+  "DalamudApiLevel": 6,
+  "LoadPriority": 0,
+  "Punchline": "Add a reload plugin command"
+}
