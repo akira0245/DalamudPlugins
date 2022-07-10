@@ -15,13 +15,13 @@
         ],
         "DalamudApiLevel": 6,
         "IconUrl": "https://i.loli.net/2021/09/24/vfG4b9MWAZQTnjJ.png",
-        "DownloadLinkInstall": "https://github.com/akira0245/DalamudPlugins/raw/api4/plugins/LootMaster/latest.zip",
+        "DownloadLinkInstall": "https://github.com/akira0245/DalamudPlugins/raw/cn/plugins/LootMaster/latest.zip",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://github.com/akira0245/DalamudPlugins/raw/api4/plugins/LootMaster/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/akira0245/DalamudPlugins/raw/api4/plugins/LootMaster/latest.zip",
+        "DownloadLinkTesting": "https://github.com/akira0245/DalamudPlugins/raw/cn/plugins/LootMaster/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/akira0245/DalamudPlugins/raw/cn/plugins/LootMaster/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1657328228"
+        "LastUpdated": "1657447194"
     },
     {
         "Author": "akira0245",
@@ -44,13 +44,13 @@
         ],
         "DalamudApiLevel": 6,
         "IconUrl": "https://s2.loli.net/2022/07/07/WiyX9GoOSmZrtCR.png",
-        "DownloadLinkInstall": "https://github.com/akira0245/DalamudPlugins/raw/api4/plugins/MultiboxPlugin/latest.zip",
+        "DownloadLinkInstall": "https://github.com/akira0245/DalamudPlugins/raw/cn/plugins/MultiboxPlugin/latest.zip",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://github.com/akira0245/DalamudPlugins/raw/api4/plugins/MultiboxPlugin/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/akira0245/DalamudPlugins/raw/api4/plugins/MultiboxPlugin/latest.zip",
+        "DownloadLinkTesting": "https://github.com/akira0245/DalamudPlugins/raw/cn/plugins/MultiboxPlugin/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/akira0245/DalamudPlugins/raw/cn/plugins/MultiboxPlugin/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1657328228"
+        "LastUpdated": "1657447194"
     },
     {
         "Author": "akira0245",
@@ -70,13 +70,13 @@
             "other"
         ],
         "DalamudApiLevel": 6,
-        "DownloadLinkInstall": "https://github.com/akira0245/DalamudPlugins/raw/api4/plugins/WindowSizeUnlock/latest.zip",
+        "DownloadLinkInstall": "https://github.com/akira0245/DalamudPlugins/raw/cn/plugins/WindowSizeUnlock/latest.zip",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://github.com/akira0245/DalamudPlugins/raw/api4/plugins/WindowSizeUnlock/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/akira0245/DalamudPlugins/raw/api4/plugins/WindowSizeUnlock/latest.zip",
+        "DownloadLinkTesting": "https://github.com/akira0245/DalamudPlugins/raw/cn/plugins/WindowSizeUnlock/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/akira0245/DalamudPlugins/raw/cn/plugins/WindowSizeUnlock/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1657328228"
+        "LastUpdated": "1657447194"
     },
     {
         "Author": "akira0245",
@@ -84,7 +84,7 @@
         "Punchline": "Add a reload plugin command",
         "Description": "",
         "InternalName": "ReloadPluginCommand",
-        "AssemblyVersion": "1.0.0.0",
+        "AssemblyVersion": "1.1.0.0",
         "ApplicableVersion": "any",
         "Tags": [
             "dev",
@@ -95,13 +95,13 @@
             "other"
         ],
         "DalamudApiLevel": 6,
-        "DownloadLinkInstall": "https://github.com/akira0245/DalamudPlugins/raw/api4/plugins/ReloadPluginCommand/latest.zip",
+        "DownloadLinkInstall": "https://github.com/akira0245/DalamudPlugins/raw/cn/plugins/ReloadPluginCommand/latest.zip",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://github.com/akira0245/DalamudPlugins/raw/api4/plugins/ReloadPluginCommand/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/akira0245/DalamudPlugins/raw/api4/plugins/ReloadPluginCommand/latest.zip",
+        "DownloadLinkTesting": "https://github.com/akira0245/DalamudPlugins/raw/cn/plugins/ReloadPluginCommand/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/akira0245/DalamudPlugins/raw/cn/plugins/ReloadPluginCommand/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1657328228"
+        "LastUpdated": "1657447194"
     },
     {
         "Author": "akira0245",
@@ -118,13 +118,13 @@
         ],
         "DalamudApiLevel": 4,
         "IconUrl": "https://i.loli.net/2021/09/24/UaxuSd9ODk5Ngil.png",
-        "DownloadLinkInstall": "https://github.com/akira0245/DalamudPlugins/raw/api4/plugins/Radar/latest.zip",
+        "DownloadLinkInstall": "https://github.com/akira0245/DalamudPlugins/raw/cn/plugins/Radar/latest.zip",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://github.com/akira0245/DalamudPlugins/raw/api4/plugins/Radar/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/akira0245/DalamudPlugins/raw/api4/plugins/Radar/latest.zip",
+        "DownloadLinkTesting": "https://github.com/akira0245/DalamudPlugins/raw/cn/plugins/Radar/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/akira0245/DalamudPlugins/raw/cn/plugins/Radar/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1657328228"
+        "LastUpdated": "1657447194"
     },
     {
         "Author": "akira0245",
@@ -142,13 +142,13 @@
         ],
         "DalamudApiLevel": 5,
         "IconUrl": "https://i.loli.net/2021/09/24/grlXmGbBLpADZVi.png",
-        "DownloadLinkInstall": "https://github.com/akira0245/DalamudPlugins/raw/api4/plugins/EasyZoom/latest.zip",
+        "DownloadLinkInstall": "https://github.com/akira0245/DalamudPlugins/raw/cn/plugins/EasyZoom/latest.zip",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://github.com/akira0245/DalamudPlugins/raw/api4/plugins/EasyZoom/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/akira0245/DalamudPlugins/raw/api4/plugins/EasyZoom/latest.zip",
+        "DownloadLinkTesting": "https://github.com/akira0245/DalamudPlugins/raw/cn/plugins/EasyZoom/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/akira0245/DalamudPlugins/raw/cn/plugins/EasyZoom/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1657328228"
+        "LastUpdated": "1657447194"
     },
     {
         "Author": "akira0245, Tsubasahane",
@@ -169,13 +169,13 @@
         ],
         "DalamudApiLevel": 5,
         "IconUrl": "https://i.loli.net/2021/09/10/SeapRGVcYP7w8jv.png",
-        "DownloadLinkInstall": "https://github.com/akira0245/DalamudPlugins/raw/api4/plugins/SmartCast(Endwalker)/latest.zip",
+        "DownloadLinkInstall": "https://github.com/akira0245/DalamudPlugins/raw/cn/plugins/SmartCast(Endwalker)/latest.zip",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://github.com/akira0245/DalamudPlugins/raw/api4/plugins/SmartCast(Endwalker)/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/akira0245/DalamudPlugins/raw/api4/plugins/SmartCast(Endwalker)/latest.zip",
+        "DownloadLinkTesting": "https://github.com/akira0245/DalamudPlugins/raw/cn/plugins/SmartCast(Endwalker)/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/akira0245/DalamudPlugins/raw/cn/plugins/SmartCast(Endwalker)/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1657328228"
+        "LastUpdated": "1657447194"
     },
     {
         "Author": "akira0245",
@@ -195,13 +195,13 @@
         ],
         "DalamudApiLevel": 4,
         "IconUrl": "https://i.loli.net/2021/09/10/SeapRGVcYP7w8jv.png",
-        "DownloadLinkInstall": "https://github.com/akira0245/DalamudPlugins/raw/api4/plugins/SmartCast/latest.zip",
+        "DownloadLinkInstall": "https://github.com/akira0245/DalamudPlugins/raw/cn/plugins/SmartCast/latest.zip",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://github.com/akira0245/DalamudPlugins/raw/api4/plugins/SmartCast/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/akira0245/DalamudPlugins/raw/api4/plugins/SmartCast/latest.zip",
+        "DownloadLinkTesting": "https://github.com/akira0245/DalamudPlugins/raw/cn/plugins/SmartCast/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/akira0245/DalamudPlugins/raw/cn/plugins/SmartCast/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1657328228"
+        "LastUpdated": "1657447194"
     },
     {
         "Author": "akira0245",
@@ -219,13 +219,13 @@
         ],
         "DalamudApiLevel": 6,
         "IconUrl": "https://i.loli.net/2021/09/09/L1fkrwElUKYMtN3.png",
-        "DownloadLinkInstall": "https://github.com/akira0245/DalamudPlugins/raw/api4/plugins/MidiBard/latest.zip",
+        "DownloadLinkInstall": "https://github.com/akira0245/DalamudPlugins/raw/cn/plugins/MidiBard/latest.zip",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://github.com/akira0245/DalamudPlugins/raw/api4/plugins/MidiBard/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/akira0245/DalamudPlugins/raw/api4/plugins/MidiBard/latest.zip",
+        "DownloadLinkTesting": "https://github.com/akira0245/DalamudPlugins/raw/cn/plugins/MidiBard/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/akira0245/DalamudPlugins/raw/cn/plugins/MidiBard/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1657328228"
+        "LastUpdated": "1657447194"
     },
     {
         "Author": "akira0245",
@@ -246,12 +246,12 @@
         ],
         "DalamudApiLevel": 5,
         "IconUrl": "",
-        "DownloadLinkInstall": "https://github.com/akira0245/DalamudPlugins/raw/api4/plugins/DalamudFontReplacer/latest.zip",
+        "DownloadLinkInstall": "https://github.com/akira0245/DalamudPlugins/raw/cn/plugins/DalamudFontReplacer/latest.zip",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://github.com/akira0245/DalamudPlugins/raw/api4/plugins/DalamudFontReplacer/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/akira0245/DalamudPlugins/raw/api4/plugins/DalamudFontReplacer/latest.zip",
+        "DownloadLinkTesting": "https://github.com/akira0245/DalamudPlugins/raw/cn/plugins/DalamudFontReplacer/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/akira0245/DalamudPlugins/raw/cn/plugins/DalamudFontReplacer/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1657328228"
+        "LastUpdated": "1657447194"
     }
 ]
