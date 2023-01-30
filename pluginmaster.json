@@ -18,13 +18,85 @@
         ],
         "DalamudApiLevel": 5,
         "IconUrl": "https://i.loli.net/2021/09/10/SeapRGVcYP7w8jv.png",
-        "DownloadLinkInstall": "https://github.com/akira0245/DalamudPlugins/raw/api4/plugins/SmartCast(Endwalker)/latest.zip",
+        "DownloadLinkInstall": "https://raw.githubusercontent.com/akira0245/DalamudPlugins/master/plugins/SmartCast(Endwalker)/latest.zip",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://github.com/akira0245/DalamudPlugins/raw/api4/plugins/SmartCast(Endwalker)/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/akira0245/DalamudPlugins/raw/api4/plugins/SmartCast(Endwalker)/latest.zip",
+        "DownloadLinkTesting": "https://raw.githubusercontent.com/akira0245/DalamudPlugins/master/plugins/SmartCast(Endwalker)/latest.zip",
+        "DownloadLinkUpdate": "https://raw.githubusercontent.com/akira0245/DalamudPlugins/master/plugins/SmartCast(Endwalker)/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1671527576"
+        "LastUpdated": "1675060179"
+    },
+    {
+        "Author": "akira0245",
+        "Name": "ReloadPluginCommand",
+        "Punchline": "Add a reload plugin command",
+        "Description": "",
+        "InternalName": "ReloadPluginCommand",
+        "AssemblyVersion": "1.1.0.0",
+        "ApplicableVersion": "any",
+        "Tags": [
+            "dev",
+            "cmd"
+        ],
+        "CategoryTags": [
+            "utility",
+            "other"
+        ],
+        "DalamudApiLevel": 6,
+        "DownloadLinkInstall": "https://raw.githubusercontent.com/akira0245/DalamudPlugins/master/plugins/ReloadPluginCommand/latest.zip",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "DownloadLinkTesting": "https://raw.githubusercontent.com/akira0245/DalamudPlugins/master/plugins/ReloadPluginCommand/latest.zip",
+        "DownloadLinkUpdate": "https://raw.githubusercontent.com/akira0245/DalamudPlugins/master/plugins/ReloadPluginCommand/latest.zip",
+        "DownloadCount": 0,
+        "LastUpdated": "1675060179"
+    },
+    {
+        "Author": "akira0245",
+        "Name": "Radar",
+        "Punchline": "Displays game objects location on screen and map.",
+        "Description": "\u5728\u5c4f\u5e55\u548c\u6e38\u620f\u5730\u56fe\u4e0a\u663e\u793a\u6e38\u620f\u5b9e\u4f53\u7684\u4f4d\u7f6e\u3002\nDisplays game objects location on screen and map.",
+        "InternalName": "Radar",
+        "AssemblyVersion": "2.0.0.0",
+        "ApplicableVersion": "any",
+        "Tags": [
+            "overlay",
+            "hunt",
+            "akira"
+        ],
+        "DalamudApiLevel": 4,
+        "IconUrl": "https://i.loli.net/2021/09/24/UaxuSd9ODk5Ngil.png",
+        "DownloadLinkInstall": "https://raw.githubusercontent.com/akira0245/DalamudPlugins/master/plugins/Radar/latest.zip",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "DownloadLinkTesting": "https://raw.githubusercontent.com/akira0245/DalamudPlugins/master/plugins/Radar/latest.zip",
+        "DownloadLinkUpdate": "https://raw.githubusercontent.com/akira0245/DalamudPlugins/master/plugins/Radar/latest.zip",
+        "DownloadCount": 0,
+        "LastUpdated": "1675060179"
+    },
+    {
+        "Author": "akira0245",
+        "Name": "LootMaster",
+        "Punchline": "Roll loots via text command.",
+        "Description": "\u4f7f\u7528\u6587\u672c\u6307\u4ee4\u5bf9\u6218\u5229\u54c1\u63b7\u9ab0\u3002\nRoll loots via text command.",
+        "InternalName": "LootMaster",
+        "AssemblyVersion": "1.0.2.2",
+        "RepoUrl": "",
+        "ApplicableVersion": "any",
+        "Tags": [
+            "akira",
+            "loot",
+            "roll"
+        ],
+        "DalamudApiLevel": 6,
+        "IconUrl": "https://i.loli.net/2021/09/24/vfG4b9MWAZQTnjJ.png",
+        "DownloadLinkInstall": "https://raw.githubusercontent.com/akira0245/DalamudPlugins/master/plugins/LootMaster/latest.zip",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "DownloadLinkTesting": "https://raw.githubusercontent.com/akira0245/DalamudPlugins/master/plugins/LootMaster/latest.zip",
+        "DownloadLinkUpdate": "https://raw.githubusercontent.com/akira0245/DalamudPlugins/master/plugins/LootMaster/latest.zip",
+        "DownloadCount": 0,
+        "LastUpdated": "1675060179"
     },
     {
         "Author": "akira0245",
@@ -44,111 +116,39 @@
         ],
         "DalamudApiLevel": 4,
         "IconUrl": "https://i.loli.net/2021/09/10/SeapRGVcYP7w8jv.png",
-        "DownloadLinkInstall": "https://github.com/akira0245/DalamudPlugins/raw/api4/plugins/SmartCast/latest.zip",
+        "DownloadLinkInstall": "https://raw.githubusercontent.com/akira0245/DalamudPlugins/master/plugins/SmartCast/latest.zip",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://github.com/akira0245/DalamudPlugins/raw/api4/plugins/SmartCast/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/akira0245/DalamudPlugins/raw/api4/plugins/SmartCast/latest.zip",
+        "DownloadLinkTesting": "https://raw.githubusercontent.com/akira0245/DalamudPlugins/master/plugins/SmartCast/latest.zip",
+        "DownloadLinkUpdate": "https://raw.githubusercontent.com/akira0245/DalamudPlugins/master/plugins/SmartCast/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1671527576"
+        "LastUpdated": "1675060179"
     },
     {
         "Author": "akira0245",
-        "Name": "Radar",
-        "Punchline": "Displays game objects location on screen and map.",
-        "Description": "\u5728\u5c4f\u5e55\u548c\u6e38\u620f\u5730\u56fe\u4e0a\u663e\u793a\u6e38\u620f\u5b9e\u4f53\u7684\u4f4d\u7f6e\u3002\nDisplays game objects location on screen and map.",
-        "InternalName": "Radar",
-        "AssemblyVersion": "2.0.0.0",
-        "ApplicableVersion": "any",
-        "Tags": [
-            "overlay",
-            "hunt",
-            "akira"
-        ],
-        "DalamudApiLevel": 4,
-        "IconUrl": "https://i.loli.net/2021/09/24/UaxuSd9ODk5Ngil.png",
-        "DownloadLinkInstall": "https://github.com/akira0245/DalamudPlugins/raw/api4/plugins/Radar/latest.zip",
-        "IsHide": false,
-        "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://github.com/akira0245/DalamudPlugins/raw/api4/plugins/Radar/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/akira0245/DalamudPlugins/raw/api4/plugins/Radar/latest.zip",
-        "DownloadCount": 0,
-        "LastUpdated": "1671527576"
-    },
-    {
-        "Author": "akira0245",
-        "Name": "DalamudFontReplacer",
-        "Punchline": "Replaces dalamud's default font",
-        "Description": "Replaces dalamud's default font(and glyph range) with NotoSansCJKsc-Medium 17pt in order to display Chinese characters properly.\nInstalling this and the font replacing effects immediately.\n If you don't want to replace font anymore, please disable this plugin and restart the game.\nFont size, path and glyph range can be changed in plugin config file.",
-        "InternalName": "DalamudFontReplacer",
-        "AssemblyVersion": "1.0.0.3",
-        "RepoUrl": "https://github.com/akira0245/DalamudCNAdapter",
-        "ApplicableVersion": "any",
-        "Tags": [
-            "akira",
-            "font",
-            "text",
-            "fix",
-            "chinese",
-            "cn"
-        ],
-        "DalamudApiLevel": 5,
-        "IconUrl": "",
-        "DownloadLinkInstall": "https://github.com/akira0245/DalamudPlugins/raw/api4/plugins/DalamudFontReplacer/latest.zip",
-        "IsHide": false,
-        "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://github.com/akira0245/DalamudPlugins/raw/api4/plugins/DalamudFontReplacer/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/akira0245/DalamudPlugins/raw/api4/plugins/DalamudFontReplacer/latest.zip",
-        "DownloadCount": 0,
-        "LastUpdated": "1671527576"
-    },
-    {
-        "Author": "akira0245",
-        "Name": "EasyZoom",
-        "Punchline": "Easy zoom distance unlock and fov control.",
-        "Description": "\u89e3\u9501\u5e76\u8c03\u6574\u89c6\u8ddd\u548c\u89c6\u89d2\u3002\nEasy zoom distance unlock and fov control.",
-        "InternalName": "EasyZoom",
+        "Name": "WindowSizeUnlock",
+        "Punchline": "Unlocks game window size restriction.",
+        "Description": "\u89e3\u9501\u6e38\u620f\u7a97\u53e3\u6700\u5c0f\u5c3a\u5bf8\u9650\u5236\u3002\nUnlocks minimum game window size restriction.",
+        "InternalName": "WindowSizeUnlock",
         "AssemblyVersion": "1.1.0.1",
-        "RepoUrl": "",
-        "ApplicableVersion": "any",
-        "Tags": [
-            "cam",
-            "fov",
-            "akira"
-        ],
-        "DalamudApiLevel": 5,
-        "IconUrl": "https://i.loli.net/2021/09/24/grlXmGbBLpADZVi.png",
-        "DownloadLinkInstall": "https://github.com/akira0245/DalamudPlugins/raw/api4/plugins/EasyZoom/latest.zip",
-        "IsHide": false,
-        "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://github.com/akira0245/DalamudPlugins/raw/api4/plugins/EasyZoom/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/akira0245/DalamudPlugins/raw/api4/plugins/EasyZoom/latest.zip",
-        "DownloadCount": 0,
-        "LastUpdated": "1671527576"
-    },
-    {
-        "Author": "akira0245",
-        "Name": "LootMaster",
-        "Punchline": "Roll loots via text command.",
-        "Description": "\u4f7f\u7528\u6587\u672c\u6307\u4ee4\u5bf9\u6218\u5229\u54c1\u63b7\u9ab0\u3002\nRoll loots via text command.",
-        "InternalName": "LootMaster",
-        "AssemblyVersion": "1.0.2.2",
-        "RepoUrl": "",
         "ApplicableVersion": "any",
         "Tags": [
             "akira",
-            "loot",
-            "roll"
+            "restrict",
+            "limit"
+        ],
+        "CategoryTags": [
+            "utility",
+            "other"
         ],
         "DalamudApiLevel": 6,
-        "IconUrl": "https://i.loli.net/2021/09/24/vfG4b9MWAZQTnjJ.png",
-        "DownloadLinkInstall": "https://github.com/akira0245/DalamudPlugins/raw/api4/plugins/LootMaster/latest.zip",
+        "DownloadLinkInstall": "https://raw.githubusercontent.com/akira0245/DalamudPlugins/master/plugins/WindowSizeUnlock/latest.zip",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://github.com/akira0245/DalamudPlugins/raw/api4/plugins/LootMaster/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/akira0245/DalamudPlugins/raw/api4/plugins/LootMaster/latest.zip",
+        "DownloadLinkTesting": "https://raw.githubusercontent.com/akira0245/DalamudPlugins/master/plugins/WindowSizeUnlock/latest.zip",
+        "DownloadLinkUpdate": "https://raw.githubusercontent.com/akira0245/DalamudPlugins/master/plugins/WindowSizeUnlock/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1671527576"
+        "LastUpdated": "1675060179"
     },
     {
         "Author": "akira0245",
@@ -170,38 +170,40 @@
         ],
         "DalamudApiLevel": 7,
         "IconUrl": "https://i.loli.net/2021/09/09/L1fkrwElUKYMtN3.png",
-        "DownloadLinkInstall": "https://github.com/akira0245/DalamudPlugins/raw/api4/plugins/MidiBard/latest.zip",
+        "DownloadLinkInstall": "https://raw.githubusercontent.com/akira0245/DalamudPlugins/master/plugins/MidiBard/latest.zip",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://github.com/akira0245/DalamudPlugins/raw/api4/plugins/MidiBard/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/akira0245/DalamudPlugins/raw/api4/plugins/MidiBard/latest.zip",
+        "DownloadLinkTesting": "https://raw.githubusercontent.com/akira0245/DalamudPlugins/master/plugins/MidiBard/latest.zip",
+        "DownloadLinkUpdate": "https://raw.githubusercontent.com/akira0245/DalamudPlugins/master/plugins/MidiBard/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1671527576"
+        "LastUpdated": "1675060179"
     },
     {
         "Author": "akira0245",
-        "Name": "ReloadPluginCommand",
-        "Punchline": "Add a reload plugin command",
-        "Description": "",
-        "InternalName": "ReloadPluginCommand",
-        "AssemblyVersion": "1.1.0.0",
+        "Name": "DalamudFontReplacer",
+        "Punchline": "Replaces dalamud's default font",
+        "Description": "Replaces dalamud's default font(and glyph range) with NotoSansCJKsc-Medium 17pt in order to display Chinese characters properly.\nInstalling this and the font replacing effects immediately.\n If you don't want to replace font anymore, please disable this plugin and restart the game.\nFont size, path and glyph range can be changed in plugin config file.",
+        "InternalName": "DalamudFontReplacer",
+        "AssemblyVersion": "1.0.0.3",
+        "RepoUrl": "https://github.com/akira0245/DalamudCNAdapter",
         "ApplicableVersion": "any",
         "Tags": [
-            "dev",
-            "cmd"
+            "akira",
+            "font",
+            "text",
+            "fix",
+            "chinese",
+            "cn"
         ],
-        "CategoryTags": [
-            "utility",
-            "other"
-        ],
-        "DalamudApiLevel": 6,
-        "DownloadLinkInstall": "https://github.com/akira0245/DalamudPlugins/raw/api4/plugins/ReloadPluginCommand/latest.zip",
+        "DalamudApiLevel": 5,
+        "IconUrl": "",
+        "DownloadLinkInstall": "https://raw.githubusercontent.com/akira0245/DalamudPlugins/master/plugins/DalamudFontReplacer/latest.zip",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://github.com/akira0245/DalamudPlugins/raw/api4/plugins/ReloadPluginCommand/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/akira0245/DalamudPlugins/raw/api4/plugins/ReloadPluginCommand/latest.zip",
+        "DownloadLinkTesting": "https://raw.githubusercontent.com/akira0245/DalamudPlugins/master/plugins/DalamudFontReplacer/latest.zip",
+        "DownloadLinkUpdate": "https://raw.githubusercontent.com/akira0245/DalamudPlugins/master/plugins/DalamudFontReplacer/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1671527576"
+        "LastUpdated": "1675060179"
     },
     {
         "Author": "akira0245",
@@ -224,38 +226,36 @@
         ],
         "DalamudApiLevel": 6,
         "IconUrl": "https://s2.loli.net/2022/07/07/WiyX9GoOSmZrtCR.png",
-        "DownloadLinkInstall": "https://github.com/akira0245/DalamudPlugins/raw/api4/plugins/MultiboxPlugin/latest.zip",
+        "DownloadLinkInstall": "https://raw.githubusercontent.com/akira0245/DalamudPlugins/master/plugins/MultiboxPlugin/latest.zip",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://github.com/akira0245/DalamudPlugins/raw/api4/plugins/MultiboxPlugin/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/akira0245/DalamudPlugins/raw/api4/plugins/MultiboxPlugin/latest.zip",
+        "DownloadLinkTesting": "https://raw.githubusercontent.com/akira0245/DalamudPlugins/master/plugins/MultiboxPlugin/latest.zip",
+        "DownloadLinkUpdate": "https://raw.githubusercontent.com/akira0245/DalamudPlugins/master/plugins/MultiboxPlugin/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1671527576"
+        "LastUpdated": "1675060179"
     },
     {
         "Author": "akira0245",
-        "Name": "WindowSizeUnlock",
-        "Punchline": "Unlocks game window size restriction.",
-        "Description": "\u89e3\u9501\u6e38\u620f\u7a97\u53e3\u6700\u5c0f\u5c3a\u5bf8\u9650\u5236\u3002\nUnlocks minimum game window size restriction.",
-        "InternalName": "WindowSizeUnlock",
+        "Name": "EasyZoom",
+        "Punchline": "Easy zoom distance unlock and fov control.",
+        "Description": "\u89e3\u9501\u5e76\u8c03\u6574\u89c6\u8ddd\u548c\u89c6\u89d2\u3002\nEasy zoom distance unlock and fov control.",
+        "InternalName": "EasyZoom",
         "AssemblyVersion": "1.1.0.1",
+        "RepoUrl": "",
         "ApplicableVersion": "any",
         "Tags": [
-            "akira",
-            "restrict",
-            "limit"
+            "cam",
+            "fov",
+            "akira"
         ],
-        "CategoryTags": [
-            "utility",
-            "other"
-        ],
-        "DalamudApiLevel": 6,
-        "DownloadLinkInstall": "https://github.com/akira0245/DalamudPlugins/raw/api4/plugins/WindowSizeUnlock/latest.zip",
+        "DalamudApiLevel": 5,
+        "IconUrl": "https://i.loli.net/2021/09/24/grlXmGbBLpADZVi.png",
+        "DownloadLinkInstall": "https://raw.githubusercontent.com/akira0245/DalamudPlugins/master/plugins/EasyZoom/latest.zip",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://github.com/akira0245/DalamudPlugins/raw/api4/plugins/WindowSizeUnlock/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/akira0245/DalamudPlugins/raw/api4/plugins/WindowSizeUnlock/latest.zip",
+        "DownloadLinkTesting": "https://raw.githubusercontent.com/akira0245/DalamudPlugins/master/plugins/EasyZoom/latest.zip",
+        "DownloadLinkUpdate": "https://raw.githubusercontent.com/akira0245/DalamudPlugins/master/plugins/EasyZoom/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1671527576"
+        "LastUpdated": "1675060179"
     }
 ]
