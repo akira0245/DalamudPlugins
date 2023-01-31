@@ -14,4 +14,4 @@
 | MidiBard | akira0245 | Bard performance using midi files or keyboard. |
 | DalamudFontReplacer | akira0245 | Replaces dalamud's default font |
 | MultiboxPlugin | akira0245 | Run more than 2 copies of FF14 at a time |
-| EasyZoom | akira0245 | Easy zoom distance unlock and fov control. |
+| EasyZoom | akira0245 | Easy zoom distance unlock and fov control. /ezoom to open config panel |
