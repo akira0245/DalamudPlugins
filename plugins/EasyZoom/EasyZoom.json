@@ -2,17 +2,18 @@
   "Author": "akira0245",
   "Name": "EasyZoom",
   "InternalName": "EasyZoom",
-  "AssemblyVersion": "1.1.0.1",
-  "Description": "解锁并调整视距和视角。\nEasy zoom distance unlock and fov control.",
+  "AssemblyVersion": "2.1.0.0",
+  "Description": "Easy zoom distance unlock and fov control. /ezoom to open config panel",
   "ApplicableVersion": "any",
-  "RepoUrl": "",
+  "RepoUrl": "https://github.com/akira0245/EasyZoom",
   "Tags": [
-    "cam",
-    "fov",
+    "zoom",
     "akira"
   ],
-  "DalamudApiLevel": 5,
+  "DalamudApiLevel": 8,
+  "LoadRequiredState": 0,
+  "LoadSync": false,
   "LoadPriority": 0,
-  "IconUrl": "https://i.loli.net/2021/09/24/grlXmGbBLpADZVi.png",
-  "Punchline": "Easy zoom distance unlock and fov control."
+  "Punchline": "Easy zoom distance unlock and fov control. /ezoom to open config panel",
+  "AcceptsFeedback": true
 }
