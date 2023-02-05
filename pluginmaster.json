@@ -24,7 +24,7 @@
         "DownloadLinkTesting": "https://raw.githubusercontent.com/akira0245/DalamudPlugins/master/plugins/SmartCast(Endwalker)/latest.zip",
         "DownloadLinkUpdate": "https://raw.githubusercontent.com/akira0245/DalamudPlugins/master/plugins/SmartCast(Endwalker)/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1675190815"
+        "LastUpdated": "1675592234"
     },
     {
         "Author": "akira0245",
@@ -49,7 +49,7 @@
         "DownloadLinkTesting": "https://raw.githubusercontent.com/akira0245/DalamudPlugins/master/plugins/ReloadPluginCommand/latest.zip",
         "DownloadLinkUpdate": "https://raw.githubusercontent.com/akira0245/DalamudPlugins/master/plugins/ReloadPluginCommand/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1675190815"
+        "LastUpdated": "1675592234"
     },
     {
         "Author": "akira0245",
@@ -72,7 +72,7 @@
         "DownloadLinkTesting": "https://raw.githubusercontent.com/akira0245/DalamudPlugins/master/plugins/Radar/latest.zip",
         "DownloadLinkUpdate": "https://raw.githubusercontent.com/akira0245/DalamudPlugins/master/plugins/Radar/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1675190815"
+        "LastUpdated": "1675592234"
     },
     {
         "Author": "akira0245",
@@ -96,7 +96,7 @@
         "DownloadLinkTesting": "https://raw.githubusercontent.com/akira0245/DalamudPlugins/master/plugins/LootMaster/latest.zip",
         "DownloadLinkUpdate": "https://raw.githubusercontent.com/akira0245/DalamudPlugins/master/plugins/LootMaster/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1675190815"
+        "LastUpdated": "1675592234"
     },
     {
         "Author": "akira0245",
@@ -122,7 +122,7 @@
         "DownloadLinkTesting": "https://raw.githubusercontent.com/akira0245/DalamudPlugins/master/plugins/SmartCast/latest.zip",
         "DownloadLinkUpdate": "https://raw.githubusercontent.com/akira0245/DalamudPlugins/master/plugins/SmartCast/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1675190815"
+        "LastUpdated": "1675592234"
     },
     {
         "Author": "akira0245",
@@ -148,7 +148,7 @@
         "DownloadLinkTesting": "https://raw.githubusercontent.com/akira0245/DalamudPlugins/master/plugins/WindowSizeUnlock/latest.zip",
         "DownloadLinkUpdate": "https://raw.githubusercontent.com/akira0245/DalamudPlugins/master/plugins/WindowSizeUnlock/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1675190815"
+        "LastUpdated": "1675592234"
     },
     {
         "Author": "akira0245",
@@ -156,7 +156,7 @@
         "Punchline": "Bard performance using midi files or keyboard.",
         "Description": "\u4f7f\u7528MIDI\u6587\u4ef6\u6216MIDI\u952e\u76d8\u8fdb\u884c\u8bd7\u4eba\u6f14\u594f\u3002\nBard performance using midi files or keyboard.\n- Solo and ensemble mode support\n- Text commands for instrument equip and switch",
         "InternalName": "MidiBard",
-        "AssemblyVersion": "1.13.0.0",
+        "AssemblyVersion": "1.15.0.0",
         "RepoUrl": "https://github.com/akira0245/MidiBard",
         "ApplicableVersion": "any",
         "Tags": [
@@ -169,14 +169,14 @@
             "other"
         ],
         "DalamudApiLevel": 7,
-        "IconUrl": "https://i.loli.net/2021/09/09/L1fkrwElUKYMtN3.png",
+        "IconUrl": "https://raw.githubusercontent.com/akira0245/MidiBard/master/icon.png",
         "DownloadLinkInstall": "https://raw.githubusercontent.com/akira0245/DalamudPlugins/master/plugins/MidiBard/latest.zip",
         "IsHide": false,
         "IsTestingExclusive": false,
         "DownloadLinkTesting": "https://raw.githubusercontent.com/akira0245/DalamudPlugins/master/plugins/MidiBard/latest.zip",
         "DownloadLinkUpdate": "https://raw.githubusercontent.com/akira0245/DalamudPlugins/master/plugins/MidiBard/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1675190815"
+        "LastUpdated": "1675592234"
     },
     {
         "Author": "akira0245",
@@ -203,7 +203,7 @@
         "DownloadLinkTesting": "https://raw.githubusercontent.com/akira0245/DalamudPlugins/master/plugins/DalamudFontReplacer/latest.zip",
         "DownloadLinkUpdate": "https://raw.githubusercontent.com/akira0245/DalamudPlugins/master/plugins/DalamudFontReplacer/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1675190815"
+        "LastUpdated": "1675592234"
     },
     {
         "Author": "akira0245",
@@ -232,7 +232,7 @@
         "DownloadLinkTesting": "https://raw.githubusercontent.com/akira0245/DalamudPlugins/master/plugins/MultiboxPlugin/latest.zip",
         "DownloadLinkUpdate": "https://raw.githubusercontent.com/akira0245/DalamudPlugins/master/plugins/MultiboxPlugin/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1675190815"
+        "LastUpdated": "1675592234"
     },
     {
         "Author": "akira0245",
@@ -254,6 +254,6 @@
         "DownloadLinkTesting": "https://raw.githubusercontent.com/akira0245/DalamudPlugins/master/plugins/EasyZoom/latest.zip",
         "DownloadLinkUpdate": "https://raw.githubusercontent.com/akira0245/DalamudPlugins/master/plugins/EasyZoom/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1675190815"
+        "LastUpdated": "1675592234"
     }
 ]
