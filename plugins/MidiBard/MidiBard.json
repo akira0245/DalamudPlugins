@@ -2,7 +2,7 @@
   "Author": "akira0245",
   "Name": "MidiBard",
   "InternalName": "MidiBard",
-  "AssemblyVersion": "1.15.0.0",
+  "AssemblyVersion": "1.15.1.0",
   "Description": "使用MIDI文件或MIDI键盘进行诗人演奏。\nBard performance using midi files or keyboard.\n- Solo and ensemble mode support\n- Text commands for instrument equip and switch",
   "ApplicableVersion": "any",
   "RepoUrl": "https://github.com/akira0245/MidiBard",
@@ -21,5 +21,6 @@
   "LoadPriority": 0,
   "IconUrl": "https://raw.githubusercontent.com/akira0245/MidiBard/master/icon.png",
   "Punchline": "Bard performance using midi files or keyboard.",
+  "Changelog": "修复了单人演奏切换乐曲时会意外取消选择音轨的问题。",
   "AcceptsFeedback": true
 }
