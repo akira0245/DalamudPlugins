@@ -4,6 +4,7 @@ on:
   push:
     branches:
     - master
+    - cn
 concurrency: regenerate
 jobs:
   generate:
