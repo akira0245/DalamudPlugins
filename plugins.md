@@ -5,13 +5,13 @@
 
 | 插件名 | 作者 | 简介 |
 |---------------|---------------|-----------------|
-| SmartCast(Endwalker) | akira0245, Tsubasahane | Cast ground target actions with 1 click. |
-| ReloadPluginCommand | akira0245 | Add a reload plugin command |
-| Radar | akira0245 | Displays game objects location on screen and map. |
-| LootMaster | akira0245 | Roll loots via text command. |
-| SmartCast | akira0245 | Cast ground target actions with 1 click. |
 | WindowSizeUnlock | akira0245 | Unlocks game window size restriction. |
-| MidiBard | akira0245 | Bard performance using midi files or keyboard. |
+| LootMaster | akira0245 | Roll loots via text command. |
+| EasyZoom | akira0245 | Easy zoom distance unlock and fov control. /ezoom to open config panel |
+| Radar | akira0245 | Displays game objects location on screen and map. |
 | DalamudFontReplacer | akira0245 | Replaces dalamud's default font |
 | MultiboxPlugin | akira0245 | Run more than 2 copies of FF14 at a time |
-| EasyZoom | akira0245 | Easy zoom distance unlock and fov control. /ezoom to open config panel |
+| SmartCast | akira0245 | Cast ground target actions with 1 click. |
+| SmartCast(Endwalker) | akira0245, Tsubasahane | Cast ground target actions with 1 click. |
+| ReloadPluginCommand | akira0245 | Add a reload plugin command |
+| MidiBard | akira0245 | Bard performance using midi files or keyboard. |
