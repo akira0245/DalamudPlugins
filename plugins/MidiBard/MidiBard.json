@@ -2,7 +2,7 @@
   "Author": "akira0245",
   "Name": "MidiBard",
   "InternalName": "MidiBard",
-  "AssemblyVersion": "1.16.1.1",
+  "AssemblyVersion": "1.16.2.0",
   "Description": "使用MIDI文件或MIDI键盘进行诗人演奏。\nBard performance using midi files or keyboard.\n- Solo and ensemble mode support\n- Text commands for instrument equip and switch",
   "ApplicableVersion": "any",
   "RepoUrl": "https://github.com/akira0245/MidiBard",
@@ -21,6 +21,6 @@
   "LoadPriority": 0,
   "IconUrl": "https://raw.githubusercontent.com/akira0245/MidiBard/master/icon.png",
   "Punchline": "Bard performance using midi files or keyboard.",
-  "Changelog": "国服6.3更新\n增加了中文音轨名识别，可选的和弦简化、新的合奏延迟补偿等等。有bug请进群反馈。",
+  "Changelog": "- 更改了一些本地化文本\n- 修复了中文音轨名显示乱码的问题",
   "AcceptsFeedback": true
 }
